@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/hot-to-termux-part-1/static/css/main.f5538fa9.css",
-    "main.js": "/hot-to-termux-part-1/static/js/main.60479628.js",
-    "index.html": "/hot-to-termux-part-1/index.html",
-    "main.f5538fa9.css.map": "/hot-to-termux-part-1/static/css/main.f5538fa9.css.map",
-    "main.60479628.js.map": "/hot-to-termux-part-1/static/js/main.60479628.js.map"
+    "main.css": "/how-to-termux-part-1/static/css/main.f5538fa9.css",
+    "main.js": "/how-to-termux-part-1/static/js/main.60479628.js",
+    "index.html": "/how-to-termux-part-1/index.html",
+    "main.f5538fa9.css.map": "/how-to-termux-part-1/static/css/main.f5538fa9.css.map",
+    "main.60479628.js.map": "/how-to-termux-part-1/static/js/main.60479628.js.map"
   },
   "entrypoints": [
     "static/css/main.f5538fa9.css",
