@@ -1,4 +1,4 @@
-*{padding: 0;margin: 0;}
+*{padding: 0;margin: 0; box-sizing: border-box;}
 
 .whole-blog {
   text-align: center;
@@ -50,8 +50,8 @@
 .home-logo {
   border-radius: 70px;
   padding: 40px;
-  height: 350px;
-  width: 500px;
+  height: 40%;
+  width: 30%;
 }
 
 .logo-name {
@@ -72,7 +72,26 @@
 }
 
 .home {
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  align-content: center;
   align-items: center;
-  align-content: stretch;
-  flex-direction: row;
+  position: absolute;
+  background: azure;
+  color: black;
+}
+
+.home-top-nav {
+  height: 15%;
+  margin: 10px;
+  margin-top: 0px;
+  box-shadow: 16px 14px 20px #0000008c;
+  border-radius: 10px;
+  background: rgb(51, 31, 31);
+}
+
+.home-buttons {
+  height: 50%;
+  width: 50%;
 }
