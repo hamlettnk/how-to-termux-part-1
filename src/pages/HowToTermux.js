@@ -1,9 +1,9 @@
-import "./App.css";
+import "../App.css";
 
 function Posts() {
     return (
         <div className="whole-post">
-            <img src={require("./images/termux-photo-100x100.jpg")} alt="termux-photo" />
+            <img src={require("../images/termux-photo-100x100.jpg")} alt="termux-photo" />
         </div>
     )
 }
@@ -14,7 +14,7 @@ export default function ABlogPost() {
             <div>
                 <h1 className="blog-title">How To Termux - part one</h1>
                 <h3 className="blog-section-1"> Introduction to Termux</h3>
-                <img className="blog-images" src={require("./images/termux-photo.jpg")} alt="termux-photo" />
+                <img className="blog-images" src={require("../images/termux-photo.jpg")} alt="termux-photo" />
                 <p className="blog-paragraph">
                     Termux is by far the best Linux terminal emulator for Android.<br></br>
                     It Comes in handy for Linux lovers letting them use tools in Terminal.<br></br>
